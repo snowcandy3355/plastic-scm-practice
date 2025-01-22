@@ -1,0 +1,3 @@
+repository "plastic-scm-practice@snowcandy3355@cloud"
+  path "/"
+    smartbranch "/main"
